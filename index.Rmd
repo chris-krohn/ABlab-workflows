@@ -4,7 +4,7 @@ author: "[Christian Krohn, PhD, RMIT University](https://www.rmit.edu.au/contact
 date: "`r Sys.Date()`"
 description: "This GitBook contains library preparation and bioinformatic workflows from DNA extraction, to processing of fastQ files generated with a Miseq instrument, to visualisation of microbial amplicon-sequences with various packages within Qiime2 and R Studio."
 documentclass: book
-github-repo: "chrismitbiz/ABlab-workflows"
+github-repo: "chris-krohn/ABlab-workflows"
 link-citations: yes
 bibliography:
 - book.bib
