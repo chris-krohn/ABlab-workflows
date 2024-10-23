@@ -1,6 +1,6 @@
 This GitBook contains workflows for students who want to get started with sequencing microbial amplicons on the Miseq instrument and then process and analyse ASV-based data.  
   
-It is available at https://chrismitbiz.github.io/ABlab-workflows/  
+It is available at https://chris-krohn.github.io/ABlab-workflows/  
   
 It is a compilation of workflows that I have gotten accustomed to during my PhD at La Trobe University with help of many amazing students and colleagues over the years. But it is by no means comprehensive.
   
